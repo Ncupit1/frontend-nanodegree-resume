@@ -1,1 +1,1 @@
-$("#main").append([Nathon Cupit]);
+$("#main").append("Nathon Cupit");
